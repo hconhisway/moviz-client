@@ -1,0 +1,106 @@
+{
+    "_id": "65e691486aca78554b2d62da",
+    "fileName": "UserstudyTest",
+    "__v": 0,
+    "imageChanges": [
+        {
+            "currentTime": 524210.0,
+            "imageId": "65e097d8336f6af8f21a0c05",
+            "sizeInfo": [
+                217.24137931034485,
+                224.82758620689657,
+                1165.5172413793105,
+                540
+            ],
+            "imageName": "1920px-Minard_Update.png"
+        },
+        {
+            "currentTime": 524210.0,
+            "imageId": "65e5add8dec6582818532ae0",
+            "sizeInfo": [
+                480.68965517241384,
+                224.82758620689657,
+                637.9310344827587,
+                540
+            ],
+            "imageName": "newYork.jpg"
+        },
+        {
+            "currentTime": 730238.0,
+            "imageId": "65e5addcdec6582818532ae3",
+            "sizeInfo": [
+                450.4570383912249,
+                1185.78102782856,
+                699.5734308348568,
+                567.4588665447898
+            ],
+            "imageName": "Chicago.jpg"
+        },
+        {
+            "currentTime": 855969.0,
+            "imageId": "65e5ade0dec6582818532ae6",
+            "sizeInfo": [
+                308.59232175502746,
+                1185.78102782856,
+                982.3278488726387,
+                567.4588665447898
+            ],
+            "imageName": "LosA.jpg"
+        },
+        {
+            "currentTime": 971931.0,
+            "imageId": "65e5add8dec6582818532ae0",
+            "sizeInfo": [
+                481.2886597938144,
+                225,
+                637.8865979381444,
+                540
+            ],
+            "imageName": "newYork.jpg"
+        },
+        {
+            "currentTime": 991813.0,
+            "imageId": "65e5addcdec6582818532ae3",
+            "sizeInfo": [
+                467.3711340206185,
+                225,
+                665.7216494845361,
+                540
+            ],
+            "imageName": "Chicago.jpg"
+        },
+        {
+            "currentTime": 1020713.0,
+            "imageId": "65e5ade8dec6582818532aec",
+            "sizeInfo": [
+                503.0927835051546,
+                225,
+                593.8144329896908,
+                540
+            ],
+            "imageName": "Boston.jpg"
+        },
+        {
+            "currentTime": 1044501.0,
+            "imageId": "65e5adebdec6582818532aef",
+            "sizeInfo": [
+                553.1958762886597,
+                225,
+                494.07216494845363,
+                540
+            ],
+            "imageName": "SLC.jpg"
+        },
+        {
+            "currentTime": 1179188.0,
+            "imageId": "65e5adeddec6582818532af2",
+            "sizeInfo": [
+                264.1752577319587,
+                225,
+                1071.6494845360826,
+                540
+            ],
+            "imageName": "TUS.jpg"
+        }
+    ]
+}
